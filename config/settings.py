@@ -25,7 +25,7 @@ INSTALLED_APPS += [
 
 # Services
 INSTALLED_APPS += [
-    ''
+    'common',
 ]
 
 MIDDLEWARE = [
